@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAPI", "RestSharpAPI\RestSharpAPI.csproj", "{8C550463-E13A-472B-BF71-9F52BD753912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C550463-E13A-472B-BF71-9F52BD753912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C550463-E13A-472B-BF71-9F52BD753912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C550463-E13A-472B-BF71-9F52BD753912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C550463-E13A-472B-BF71-9F52BD753912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E065E9EE-188E-4B73-B4C7-3FC27191292C}
+	EndGlobalSection
+EndGlobal
